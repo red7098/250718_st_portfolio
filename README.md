@@ -10,7 +10,7 @@
 
 4. 한길수 https://gs1020.github.io/portfolio/
 
-5. 최유리 
+5. 최유리 https://yurlcho.github.io/CHOICE_portfolio/
 
 6. 김가람 https://jalgaram.github.io/garam_portfolio/
 
@@ -18,7 +18,7 @@
 
 8. 방혜림 https://bhlim08.github.io/portfolio/
 
-9. 유희원 
+9. 유희원 https://yhw1130y.github.io/yhw-portfolio/
 
 10. 남어진 https://jakeanam.github.io/WebPortfolio-EojinNam-jQuery/
 
