@@ -22,6 +22,6 @@
 
 10. 남어진 https://jakeanam.github.io/WebPortfolio-EojinNam-jQuery/
 
-11. 최영근 
+11. 최영근 https://potoco97.github.io/Potoco_portfolio/ (작업중)
 
 12. 안세홍 
