@@ -4,7 +4,7 @@
 
 1. 이소리 https://cutesori.github.io/portfolio/
 
-2. 최수진
+2. 최수진 https://csjin10.github.io/portfolio/
 
 3. 박수빈 https://psb711.github.io/SubeenPortfolio/
 
